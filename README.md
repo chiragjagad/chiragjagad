@@ -2,8 +2,8 @@
 <h4 align="center">Alpha Microsoft Learn Student Ambassador | Full Stack Web Developer | Al/ML Enthusiast</h4>
 
 <h2 align="center">Achievements 🏆 </h2>
- <p align="center"> <img src="https://github.com/chiragjagad/chiragjagad/blob/main/mlsa.png" / height ="80"> </p>
- <p align="center"> <img src="https://github.com/chiragjagad/chiragjagad/blob/main/hacktoberfest.png" height ="80" /> </p>
+ <p align="center"> <img src="https://github.com/chiragjagad/chiragjagad/blob/main/mlsa.png" / height ="100"> 
+  <img src="https://github.com/chiragjagad/chiragjagad/blob/main/hacktoberfest.png" height ="100" /> </p>
 
 <h2 align="center">My Tech Bag🎒 </h2>
 
