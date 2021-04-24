@@ -6,8 +6,6 @@
 
 <h2 align="center">My GitHub Stats 📈 </h2>
 
- <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=chiragjagad.chiragjagad" />
+ <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=chiragjagad.chiragjagad" /> </p>
  
- <img  src="https://github-readme-stats.vercel.app/api?username=chiragjagad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragjagad&layout=compact&show_icons=true&theme=radical" />
-
-</p>
+ <p align="center"><img  align="top" src="https://github-readme-stats.vercel.app/api?username=chiragjagad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><img  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragjagad&layout=compact&show_icons=true&theme=radical" /></p>
