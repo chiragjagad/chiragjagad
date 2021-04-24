@@ -7,7 +7,6 @@
 <h2 align="center">My GitHub Stats 📈 </h2>
 
  <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=chiragjagad.chiragjagad" /> </p>
- 
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragjagad" alt="chiragjagad" /></a> </p>
  <p align="center"><img  align="top" src="https://github-readme-stats.vercel.app/api?username=chiragjagad&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><img  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiragjagad&layout=compact&show_icons=true&theme=radical" /></p>
  
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragjagad" alt="chiragjagad" /></a> </p>
