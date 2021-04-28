@@ -1,5 +1,4 @@
 <h2 align="center">Hi 👋, I'm <font style="color:red">Chirag Jagad</font></h2>
-<h4 align="center">Alpha Microsoft Learn Student Ambassador | Full Stack Web Developer | Al/ML Enthusiast</h4>
 
 <h2 align="center">Achievements 🏆 </h2>
  <p align="center"> <img src="https://github.com/chiragjagad/chiragjagad/blob/main/mlsa.png" / height ="150"> 
