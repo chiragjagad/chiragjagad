@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm <font style="color:red">Chirag Jagad</font></h2>
 
 <h2 align="center">Achievements 🏆 </h2>
- <p align="center"> <img src="https://github.com/chiragjagad/chiragjagad/blob/main/mlsa.png" / height ="150"> 
+ <p align="center"> <img src="https://github.com/chiragjagad/chiragjagad/blob/main/beta-mlsa.png" / height ="150"> 
   <img src="https://github.com/chiragjagad/chiragjagad/blob/main/hacktoberfest.png" height ="150" /> </p>
 
 <h2 align="center">My Tech Bag🎒 </h2>
